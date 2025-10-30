@@ -13,7 +13,7 @@ var config = {
     },
     insetPosition: 'bottom-right',
     theme: 'dark',
-    use3dTerrain: true, //set true for enabling 3D maps.
+    use3dTerrain: false, //set true for enabling 3D maps.
     auto: false,
     title: 'Castilla y León arde',
     subtitle: 'Los grandes incendios forestales de 2025 han arrasado cerca de 150.000 hectáreas en Castilla y León durante el verano, la mayoría en León y Zamora',
